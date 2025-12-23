@@ -1,21 +1,28 @@
 synthba-g.pth
 synthstrip.pt
+HCCT_synthetic.pth.tar
+triamese_synthetic.pth.tar
+
+
 /Abide_data
 /Abide_IXI_data
-/ants_2_6_3
-/Register
-/stripped
-/Temp_output
-/parkinson_data
 /adni_preprocessed
 /Alzheimer_ADNI_data
+/ants_2_6_3
+/IXI_synthetic_MRIs
 /OASIS1_preprocessed
 /OASIS3
 /OASIS3_preprocessed
+/parkinson_data
 /parkinson_preprocessed
+/Register
 /rp_ai_Triamese_ViT_v2
+/rp-ai-HCCT-v2
+/stripped
+/Temp_output
 /templates
-
+/Yale_inf_data
+/Yale_preprocessed_data
 
 
 

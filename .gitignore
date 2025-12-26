@@ -21,9 +21,13 @@ triamese_synthetic.pth.tar
 /stripped
 /Temp_output
 /templates
+/Trimeese_Data_without_CBH
 /Yale_inf_data
 /Yale_preprocessed_data
 
+
+flattened_NIFTI_array.npy
+MY_MODEL_v2
 
 
 Orient_mri_RAS_5_1.nii.gz
